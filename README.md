@@ -1,6 +1,6 @@
 # Backend Calculator for shopping cart purchases
 
-This is a simple woltapp for the Wolt Software Engineer Internship (2025) position that I made. 
+This is a simple woltapp for the Wolt Software Engineer Internship (2025) position that I made. For information about the specification of the tasks, go check out https://github.com/woltapp/backend-internship-2025
 
 ## Setup
 In order to get it started, you'll need the following software
